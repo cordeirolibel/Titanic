@@ -7,4 +7,5 @@ Machine Learning to predict which passengers survived the tragedy.
 Python 3: 
 numpy e pandas
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/RMS_Titanic_4.jpg/1236px-RMS_Titanic_4.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/640px-RMS_Titanic_3.jpg)
+
