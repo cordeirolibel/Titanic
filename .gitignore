@@ -1,0 +1,10 @@
+
+__pycache__
+.ipynb_checkpoints
+
+gender_submission.csv
+
+*.png
+*.jpg
+
+
